@@ -14,6 +14,7 @@
 		BE0C884C2A34CB5E00618FAF /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0C884B2A34CB5E00618FAF /* Framework.swift */; };
 		BE0C884E2A3638E900618FAF /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0C884D2A3638E900618FAF /* FrameworkDetailView.swift */; };
 		BE0C88502A363EBC00618FAF /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0C884F2A363EBC00618FAF /* AFButton.swift */; };
+		BE0C88522A36618100618FAF /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0C88512A36618100618FAF /* FrameworkGridViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		BE0C884B2A34CB5E00618FAF /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 		BE0C884D2A3638E900618FAF /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		BE0C884F2A363EBC00618FAF /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
+		BE0C88512A36618100618FAF /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BE0C884B2A34CB5E00618FAF /* Framework.swift */,
 				BE0C884D2A3638E900618FAF /* FrameworkDetailView.swift */,
 				BE0C883F2A34CB2000618FAF /* FrameworkGridView.swift */,
+				BE0C88512A36618100618FAF /* FrameworkGridViewModel.swift */,
 				BE0C883D2A34CB2000618FAF /* SeanAllen_Apple_FrameworksApp.swift */,
 				BE0C88412A34CB2100618FAF /* Assets.xcassets */,
 				BE0C88432A34CB2100618FAF /* Preview Content */,
@@ -151,6 +154,7 @@
 				BE0C884C2A34CB5E00618FAF /* Framework.swift in Sources */,
 				BE0C88502A363EBC00618FAF /* AFButton.swift in Sources */,
 				BE0C883E2A34CB2000618FAF /* SeanAllen_Apple_FrameworksApp.swift in Sources */,
+				BE0C88522A36618100618FAF /* FrameworkGridViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
